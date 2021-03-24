@@ -1,5 +1,6 @@
 {
   "name": "xe-lerna-test",
+  "version": "0.0.3",
   "repository": "https://github.com/DunYin/lerna-test",
   "npmClient": "npm",
   "devDependencies": {
