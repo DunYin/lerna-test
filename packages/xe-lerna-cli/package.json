@@ -1,6 +1,6 @@
 {
   "name": "xe-lerna-cli",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "xe-lerna-core": "^1.0.0"
+    "xe-lerna-core": "^0.0.2"
   }
 }
