@@ -3,10 +3,18 @@
   "repository": "https://github.com/DunYin/lerna-test",
   "npmClient": "npm",
   "version": "0.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "lerna": "^4.0.0"
   },
-  "peerDependencies": {
+  "dependencies": {
     "xe-lerna-cli":"0.0.8",
     "xe-lerna-core":"0.0.7",
     "xe-lerna-plugins":"0.0.8"
