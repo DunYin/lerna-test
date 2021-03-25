@@ -2,8 +2,11 @@
   "name": "xe-lerna-test",
   "repository": "https://github.com/DunYin/lerna-test",
   "npmClient": "npm",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "xe-lerna-cli":"0.0.8",
+    "xe-lerna-core":"0.0.7",
+    "xe-lerna-plugins":"0.0.8"
   }
 }
