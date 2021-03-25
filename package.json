@@ -4,7 +4,9 @@
   "npmClient": "npm",
   "version": "0.0.8",
   "devDependencies": {
-    "lerna": "^4.0.0",
+    "lerna": "^4.0.0"
+  },
+  "peerDependencies": {
     "xe-lerna-cli":"0.0.8",
     "xe-lerna-core":"0.0.7",
     "xe-lerna-plugins":"0.0.8"
